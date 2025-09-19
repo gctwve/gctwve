@@ -18,11 +18,9 @@
 
 ### **Frontend**  
 ![C#](https://img.shields.io/badge/C%23-yellow?style=for-the-badge)  
-![C++](https://img.shields.io/badge/C%2B%2B-yellow?style=for-the-badge)
-![Html](https://img.shields.io/badge/Html-yellow?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-yellow?style=for-the-badge
 
 ### **Backend**  
-![Node.js](https://img.shields.io/badge/build-.js-yellow?style=for-the-badge&label=Node)  
 ![C#](https://img.shields.io/badge/C%23-yellow?style=for-the-badge)  
 ![C++](https://img.shields.io/badge/C%2B%2B-yellow?style=for-the-badge)
 ![.NET Framework](https://img.shields.io/badge/build-Framework-yellow?style=for-the-badge&label=.NET)  
