@@ -1,8 +1,8 @@
 # **👋 Hey there, I'm Gui!**  
-### **🚀 Full-Stack Developer | Tech Lover**  
+### **🚀 Developer | Tech Lover**  
 
 🔹 Passionate about building innovative software solutions!  
-🔹 Specializing in **C# .NET Framework, C++, Lua, Python, and AI**.  
+🔹 Specializing in **C# .NET Framework, Lua and AI**.  
 🔹 Always learning and exploring new technologies!  
 
 ---
@@ -27,7 +27,6 @@
 
 ### **Dll/UI Creator**  
 ![Languages](https://img.shields.io/badge/build-C%23%2C%20Lua%2C%20C%2B%2B-yellow?style=for-the-badge&label=Creator%20in)  
-
 ---
 
 ## **📊 GitHub Stats**  
@@ -36,9 +35,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gctwve&layout=compact&theme=radical)  
 
 ---
-
-## **⚡ Fun Fact**  
-💡 Born on **April 12, 2012**, making me one of the youngest tech enthusiasts around!
 
 <!--
 **gctwve/gctwve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
