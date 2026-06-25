@@ -1,9 +1,9 @@
 # **👋 Hey there, I'm Gui!**  
 ### **🚀 Developer | Tech Lover**  
 
-🔹 Passionate about building innovative software solutions!  
+🔹 Passionate about building innovative software n stuff.  
 🔹 Specializing in **C# .NET Framework, Lua and AI**.  
-🔹 Always learning and exploring new technologies!  
+🔹 Always learning and exploring new stuff!  
 
 ---
 
@@ -16,12 +16,10 @@
 
 ## **💻 Tech Stack**  
 
-### **Frontend**  
-![C#](https://img.shields.io/badge/C%23-yellow?style=for-the-badge)  
-
-### **Backend**  
-![C#](https://img.shields.io/badge/C%23-yellow?style=for-the-badge)  
-![.NET Framework](https://img.shields.io/badge/build-Framework-yellow?style=for-the-badge&label=.NET)  
+### **Currently Working On**
+🔹 I am currently working on 2 projects:  
+🔺 Flee The Facility (Korone)  
+🔺 Buildr - Roblox Revival
 
 ### **Dll/UI Creator**  
 ![Languages](https://img.shields.io/badge/build-C%23%2C%20Lua%2C%20C%2B%2B-yellow?style=for-the-badge&label=Creator%20in)  
@@ -33,6 +31,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gctwve&layout=compact&theme=radical)  
 
 ---
+
+⚡ Fun fact; I am a cool guy
 
 <!--
 **gctwve/gctwve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
