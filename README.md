@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&label=Gui's)](https://abtgui.com/)  
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&label=Gui's
 )](https://www.youtube.com/@guille_Playsit5953) 
-
 [![Socials](https://img.shields.io/badge/Socials-lime?style=for-the-badge&label=Gui's
 )](https://guns.lol/thegui1)
 
