@@ -18,11 +18,11 @@
 
 ### **Currently Working On**
 🔹 I am currently working on 2 projects:  
-🔺 Flee The Facility (Korone)  
-🔺 Buildr - Roblox Revival
+🔺 [https://img.shields.io/badge/Flee%20The%20Facility-Korone-Coffee?style=for-the-badge&color=6F4E37](https://www.pekora.zip/games/316263/Flee-The-Facility)
+🔺 [playbuildr.xyz/auth/home](https://img.shields.io/badge/Buildr-Roblox%20Revival-Yellow?style=for-the-badge&color=FFDF00)
 
 ### **Dll/UI Creator**  
-![Languages](https://img.shields.io/badge/build-C%23%2C%20Lua%2C%20C%2B%2B-yellow?style=for-the-badge&label=Creator%20in)  
+![Languages](https://img.shields.io/badge/build-C%23%2C%20Lua-yellow?style=for-the-badge&label=Creator%20in)  
 ---
 
 ## **📊 GitHub Stats**  
