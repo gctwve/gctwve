@@ -10,7 +10,7 @@
 ## **🌐 Connect with Me**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&label=Gui's)](https://abtgui.com/)  
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&label=Gui's
-)](https://www.youtube.com/@guille_Playsit5953) 
+)](https://www.youtube.com/@guille_Playsit5953)  
 [![Socials](https://img.shields.io/badge/Socials-lime?style=for-the-badge&label=Gui's
 )](https://guns.lol/thegui1)
 
@@ -18,7 +18,7 @@
 
 ### **Currently Working On**
 🔹 I am currently working on 2 projects:  
-[![ ](https://img.shields.io/badge/Flee%20The%20Facility-Korone-Coffee?style=for-the-badge&color=6F4E37)](https://www.pekora.zip/games/316263/Flee-The-Facility)
+[![ ](https://img.shields.io/badge/Flee%20The%20Facility-Korone-Coffee?style=for-the-badge&color=6F4E37)](https://www.pekora.zip/games/316263/Flee-The-Facility)  
 [![ ](https://img.shields.io/badge/Buildr-Roblox%20Revival-Yellow?style=for-the-badge&color=FFDF00)](playbuildr.xyz/auth/home)
 
 ### **Dll/UI Creator**  
