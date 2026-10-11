@@ -18,7 +18,7 @@
 
 ### **Currently Working On**
 🔹 I am currently working on a project:  
-[![ ](https://img.shields.io/badge/Buildr-Roblox%20Revival-Yellow?style=for-the-badge&color=FFDF00)](https://playbuildr.xyz/auth/home)
+[![ ](https://img.shields.io/badge/Buildr-Roblox%20Revival-Yellow?style=for-the-badge&color=FFDF00)](https://playbuildr.xyz)
 
 ### **Dll/UI Creator**  
 ![Languages](https://img.shields.io/badge/build-C%23%2C%20Lua-yellow?style=for-the-badge&label=Creator%20in)
